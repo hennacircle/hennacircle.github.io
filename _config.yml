@@ -1,22 +1,20 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Henna Circle
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Henna Circle GitHub Page
 
 # Your name to show in the footer
-author: Some Person
+author: Henna Circle
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Henna Circle: "https://www.hennacircle.com/"
+    - GitHub: "https://github.com/hennacircle/"
 
 # --- Logo --- #
 
@@ -38,10 +36,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "abrar.mudhir@hennacircle.com"
+  facebook: abrarmudhirhc
+  github: hennacircle
+  twitter: hennacircle
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
